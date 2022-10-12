@@ -5,6 +5,14 @@ GNU GPL v3 license applies to software.
 
 CC-BY 4.0 license applies to data.
 
+## Deployment and Location
+
+**Lon**|**Lat**
+-----|-----
+44.19646|-91.94081
+
+
+
 ## Data columns
 
 **CSV column**|**Description**
