@@ -5,13 +5,11 @@ GNU GPL v3 license applies to software.
 
 CC-BY 4.0 license applies to data.
 
-## Deployment and Location
+## Location
 
 **Lon**|**Lat**
 -----|-----
 44.19646|-91.94081
-
-
 
 ## Data columns
 
@@ -26,3 +24,11 @@ Bat [V]|Voltage of the batteries comprising the main power supply; during the 20
 Range [cm]|Distance reported by the LiDAR Lite laser rangefinder in centimeters
 Pitch [deg]|Pitch from horizontal, along long axis of rangefinder assembly ([See annotated figure in README](https://github.com/NorthernWidget-Skunkworks/Project-Symbiont-LiDAR))
 Roll [deg]|Roll from horizontal, along long axis of rangefinder assembly ([See annotated figure in README](https://github.com/NorthernWidget-Skunkworks/Project-Symbiont-LiDAR))
+
+## Deployment images
+
+![Stream gauge in context, bolted to bridge. Wide-angle camera shot. Prof. Crystal Ng under bridge with acoustic Doppler velocimiter (ADV); Profs. Doug Faulkner, Colin Belby, and students in the far distance.](images/DSC_2517_BridgeWideAngle.JPG)
+
+![Margay data logger and box with mounting plate and stand-offs.](images/DSC_3278_TroutGaugeLoggerTopOpen.JPG)
+
+![Laser rangefinder from the base of the stream-gauge installation. Held on by square U bolts via a cutting board from the local hardware store (St. Charles, MN).](images/DSC_2522_TroutGaugeBottomLiDARLite.JPG)
