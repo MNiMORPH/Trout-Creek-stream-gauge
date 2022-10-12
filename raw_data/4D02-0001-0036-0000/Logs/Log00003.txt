@@ -1,0 +1,2 @@
+Lib = 0.3.0 SN = 4D02-0001-0036-0000
+Time [UTC], PresOB [mBar], RH_OB [%], TempOB [C], Temp RTC [C], Bat [V], Range [cm],Pitch [deg],Roll [deg],
