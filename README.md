@@ -27,7 +27,7 @@ ADW realized that even if the [Margay data logger](github.com/NorthernWidget/Pro
 
 ### Removal: 2022-09-13
 
-The condemned bridge to which we installed the logger was taken out for replacement. Jaime Edwards and Garrett Owens, both of the Minnesota Department of Natural Resources, rescued the stream gauge and data logger and delivered it to ADW at SAFL. Shortly thereafter, ADW shipped the Margay logger to colleagues working on the Athabasca Glacier.
+The condemned bridge on which we installed the stream gauge was taken out for replacement. Jaime Edwards and Garrett Owens, both of the Minnesota Department of Natural Resources, rescued the stream gauge and data logger and delivered it to ADW at SAFL. Shortly thereafter, ADW shipped the Margay logger to colleagues working on the Athabasca Glacier.
 
 ## Data columns
 
