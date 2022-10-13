@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/549840719.svg)](https://zenodo.org/badge/latestdoi/549840719)
+
 # Trout-Creek-stream-gauge
 River stage in distance from strut on bridge condemned after 2007 flood and plotting code
 
