@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "Please cite this data set and ancillary information as follows."
+authors:
+- family-names: "Wickert"
+  given-names: "Andrew D."
+  orcid: "https://orcid.org/0000-0002-9545-3365"
+- family-names: "Barefoot"
+  given-names: "Eric"
+  orcid: "https://orcid.org/0000-0001-5770-2116"
+- family-names: "Schulz"
+  given-names: "Bobby"
+  orcid: "https://orcid.org/0000-0002-9272-4756"
+- family-names: "Wickert"
+  given-names: "Peter D."
+- family-names: "Wickert"
+  given-names: "Karen M."
+  orcid: "https://orcid.org/0000-0002-3313-7391"
+- family-names: "Wickert"
+  given-names: "Joshua S."
+title: "Trout Creek stream gauge"
+version: 20221012
+doi: 
+date-released: 2022-10-12
+url: "https://github.com/MNiMORPH/Trout-Creek-stream-gauge"
