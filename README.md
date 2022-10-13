@@ -11,7 +11,7 @@ CC-BY 4.0 license applies to data.
 
 **Lon**|**Lat**
 -----|-----
-44.19646|-91.94081
+-91.94081|44.19646
 
 ## Data collection timeline
 
