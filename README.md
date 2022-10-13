@@ -11,6 +11,24 @@ CC-BY 4.0 license applies to data.
 -----|-----
 44.19646|-91.94081
 
+## Data collection timeline
+
+### Full date range
+
+2021-06-03 to 2022-09-13
+
+### Start: 2021-06-03
+
+Installed during field work associated with NSF-funded project, [1944782 -- CAREER: Alluvial-river dynamics through watershed networks](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1944782).
+
+### Reprogram: 2021-08-17
+
+ADW realized that even if the [Margay data logger](github.com/NorthernWidget/Project-Margay) should be able to last for >1 year at 1-minute logging intervals, the laser required much more power. ADW reduced the logging frequency from once per minute to once per five minutes.
+
+### Removal: 2022-09-13
+
+The condemned bridge to which we installed the logger was taken out for replacement. Jaime Edwards and Garrett Owens, both of the Minnesota Department of Natural Resources, rescued the stream gauge and data logger and delivered it to ADW at SAFL. Shortly thereafter, ADW shipped the Margay logger to colleagues working on the Athabasca Glacier.
+
 ## Data columns
 
 **CSV column**|**Description**
