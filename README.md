@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/549840719.svg)](https://zenodo.org/badge/latestdoi/549840719)
+
 # Trout-Creek-stream-gauge
 River stage in distance from strut on bridge condemned after 2007 flood and plotting code
 
@@ -9,7 +11,7 @@ CC-BY 4.0 license applies to data.
 
 **Lon**|**Lat**
 -----|-----
-44.19646|-91.94081
+-91.94081|44.19646
 
 ## Data collection timeline
 
@@ -27,7 +29,7 @@ ADW realized that even if the [Margay data logger](github.com/NorthernWidget/Pro
 
 ### Removal: 2022-09-13
 
-The condemned bridge to which we installed the logger was taken out for replacement. Jaime Edwards and Garrett Owens, both of the Minnesota Department of Natural Resources, rescued the stream gauge and data logger and delivered it to ADW at SAFL. Shortly thereafter, ADW shipped the Margay logger to colleagues working on the Athabasca Glacier.
+The condemned bridge on which we installed the stream gauge was taken out for replacement. Jaime Edwards and Garrett Owens, both of the Minnesota Department of Natural Resources, rescued the stream gauge and data logger and delivered it to ADW at SAFL. Shortly thereafter, ADW shipped the Margay logger to colleagues working on the Athabasca Glacier.
 
 ## Data columns
 
@@ -47,9 +49,25 @@ Roll [deg]|Roll from horizontal, along long axis of rangefinder assembly ([See a
 
 ![Stream gauge in context, bolted to bridge. Wide-angle camera shot. Prof. Crystal Ng under bridge with acoustic Doppler velocimiter (ADV); Profs. Doug Faulkner, Colin Belby, and students in the far distance.](images/DSC_2517_BridgeWideAngle.JPG)
 
+Stream gauge in context, bolted to bridge. Wide-angle camera shot. Prof. Crystal Ng under bridge with acoustic Doppler velocimiter (ADV); Profs. Doug Faulkner, Colin Belby, and students in the far distance.
+
+*Photo: Andy Wickert*
+
+<br/>
+
 ![Margay data logger and box with mounting plate and stand-offs.](images/DSC_3278_TroutGaugeLoggerTopOpen.JPG)
 
+Margay data logger and box with mounting plate and stand-offs. Note how it is bolted to bridge struts.
+
+*Photo: Andy Wickert*
+
+<br/>
+
 ![Laser rangefinder from the base of the stream-gauge installation. Held on by square U bolts via a cutting board from the local hardware store (St. Charles, MN).](images/DSC_2522_TroutGaugeBottomLiDARLite.JPG)
+
+Laser rangefinder from the base of the stream-gauge installation. Held on by square U bolts via a cutting board from the local hardware store (St. Charles, MN). The data logger is on the opposite side of the cutting board (nylon platform).
+
+*Photo: Andy Wickert*
 
 ## Funding support
 
