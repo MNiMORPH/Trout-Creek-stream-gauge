@@ -12,7 +12,7 @@ _supplement = False # Set true for supplementary figure
 ###############################
 
 df = None
-for infilename in sorted(glob.glob('data/Log*.txt')):
+for infilename in sorted(glob.glob('../data/Log*.txt')):
     print( infilename, end='; number of data entries: ')
     _df = pd.read_csv(infilename, header=1, infer_datetime_format=True, parse_dates=True, index_col='Time [UTC]', dtype=float, na_values=[' NAN', 50])
     print( len(_df) )
