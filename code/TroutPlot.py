@@ -17,7 +17,7 @@ for infilename in sorted(glob.glob('../data/Log*.txt')):
     _df = pd.read_csv(infilename, header=1, infer_datetime_format=True, parse_dates=True, index_col='Time [UTC]', dtype=float, na_values=[' NAN', 50])
     print( len(_df) )
     if df is not None:
-        df = df.append(_df)
+        df = df._append(_df)
     else:
         df = _df
 
