@@ -31,6 +31,19 @@ ADW realized that even if the [Margay data logger](github.com/NorthernWidget/Pro
 
 The condemned bridge on which we installed the stream gauge was taken out for replacement. Jaime Edwards and Garrett Owens, both of the Minnesota Department of Natural Resources, rescued the stream gauge and data logger and delivered it to ADW at SAFL. Shortly thereafter, ADW shipped the Margay logger to colleagues working on the Athabasca Glacier.
 
+### Reinstallation: 2023-10-28
+
+After Caltronics built and sent us the first batch of Margay v3.0 data loggers, we prepared and installed one on the upstream side of the rebuilt bridge during the make-up field trip for UMN's *ESCI 4701/8701: Geomorphology* class. We fixed the data logger to the steel I-beam on the side via 4x 1" C clamps (standard/removable hardware-store ones) via the Nilon cutting board on which it was already mounted. We separated the laser rangefinder from the cutting-board platform and fixed it to the top of a horizontal beam such that it looks down directly over the water, and then cinched the cables to the same beam. Turning on and off the data logger requires climbing over the bridge railing and reaching down. The box opens top-down, which is a bit concerning to me, but maybe shouldn't be.
+
+Note on what we learned from before: We should add lock washers to the #4 screws holding the Margay data logger in place. These screws below the mounting plate had come loose, so we took it apart to tighten them. Many of the screws for the battery pack were loose too, despite their lock washers.
+
+Those involved in the deployment were:
+* Andy Wickert
+* Vaughn Swindlehurst (UMN ESCI undergrad)
+* Brady Bettin (UMN ESCI undergrad)
+
+The logger was set to record data every 1 minute.
+
 ## Data columns
 
 **CSV column**|**Description**
