@@ -17,7 +17,8 @@ CC-BY 4.0 license applies to data.
 
 ### Full date range
 
-2021-06-03 to 2022-09-13
+2021-06-03 to 2022-09-13 (old bridge)
+2023-10-28 to the time of writing (new bridge)
 
 ### Start: 2021-06-03
 
